@@ -98,12 +98,11 @@ park.html
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-09-21 001639.png>)
 ![alt text](<Screenshot 2025-09-21 001715.png>)
 ![alt text](<Screenshot 2025-09-21 001746.png>)
 ![alt text](<Screenshot 2025-09-21 001805.png>)
 ![alt text](<Screenshot 2025-09-21 001822.png>)
 ![alt text](<Screenshot 2025-09-21 001838.png>)
-
+![alt text](<Screenshot 2025-09-27 145256.png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
